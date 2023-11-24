@@ -14,6 +14,7 @@ Usage - sources:
                                                      'https://youtu.be/LNwODJXcvt4'  # YouTube
                                                      'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 
+
 Usage - formats:
     $ python detect.py --weights yolov5s.pt                 # PyTorch
                                  yolov5s.torchscript        # TorchScript
