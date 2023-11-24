@@ -1,0 +1,5 @@
+train: /home/xnwu/wangyong/Dataset/train_on_dataset5/train/images # train images
+val: /home/xnwu/wangyong/Dataset/train_on_dataset5/val/images # val images
+
+nc: 16
+names: ["LA","PC","SA","RA","SLA","SRA","MAR","CL","STA","NTA","LRA","MAL","SLR","other","TA","LTA"]

@@ -1,0 +1,7 @@
+train: datasets\railroad\train\images
+val: datasets\railroad\val\images
+test : datasets\railroad\test\images
+nc: 3
+
+names: ['person','hamlet','vest']
+# names: ['leaf','branch','bottle','grass','milk_box','plastic_bag','can','plastic_box','glass_bottle','bad_fruit','ball']

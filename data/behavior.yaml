@@ -1,0 +1,7 @@
+train: datasets\behavior\train\images
+val: datasets\behavior\val\images
+test : datasets\behavior\test\images
+nc: 9
+
+# names: ['leaf','branch','bottle','grass','milk_box','plastic_bag','can','plastic_box','glass_bottle','bad_fruit','ball']
+names: ['rcall','rtype','lcall','ltype','radio','drink','talk','fetch','tomb']
